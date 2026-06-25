@@ -1,4 +1,4 @@
-class Solution {
+class MemoryMaintenance {
     public ListNode removeNthFromEnd(ListNode head, int n) {
 
         ListNode dummy = new ListNode(0);

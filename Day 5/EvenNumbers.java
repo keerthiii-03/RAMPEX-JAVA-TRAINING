@@ -1,4 +1,3 @@
-import java.util.Scanner;
 class EvenNumbers {
     public static void main(String[] args) {
 
